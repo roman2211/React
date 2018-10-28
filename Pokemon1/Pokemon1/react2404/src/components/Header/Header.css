@@ -1,0 +1,23 @@
+.header-mini {
+  width: 100px;
+  height: 100px;
+  background-color: darksalmon;
+}
+
+.header-maxi {
+  width: 600px;
+  height: 100px;
+  background-color: darksalmon;
+}
+.pokemon {
+   color: brown  ;
+width: 250px;
+  margin-left: 5px;
+  border: 1px solid #000;
+  padding: 3px;
+  margin-top: 50px;
+  text-align: center;
+  background-color: aqua;
+  text-transform: capitalize;
+  list-style-type: none;
+}
